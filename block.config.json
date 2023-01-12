@@ -1,0 +1,13 @@
+{
+  "name": "divide_two_numbers",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/divide_two_numbers",
+    "ssh": "git@github.com:grgshiji/divide_two_numbers.git"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "",
+  "postPull": "npm i",
+  "standAloneBlock": false
+}
